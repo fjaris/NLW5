@@ -1,0 +1,3 @@
+# NLW5
+Projeto do NLW5 na trilha do React, nessa edição foi desenvolvido uma aplicação de podcast, foi utilizado um json para api, a aplicação tinha tudo que um podcast necessita
+controle de slider, player, pause, shuffling, descrição de episodio, titulo, etc...
